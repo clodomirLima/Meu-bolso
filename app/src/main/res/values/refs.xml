@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="editar">@drawable/ic_edit</drawable>
+    <drawable name="deletar">@drawable/ic_delete</drawable>
+    <drawable name="inputadd">@android:drawable/ic_input_add</drawable>
+    <drawable name="inputdelete">@android:drawable/ic_delete</drawable>
+    <drawable name="save">@drawable/ic_save</drawable>
+    <drawable name="receitar">@drawable/receita</drawable>
+    <drawable name="despesar">@drawable/despesa</drawable>
+
+</resources>
